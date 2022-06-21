@@ -1,0 +1,6 @@
+flask==2.1.2
+SQLAlchemy==1.4.36 
+flask-sqlalchemy==2.5.1
+Flask-WTF==1.0.1
+pymysql==1.0.2
+faker==13.11.0
